@@ -6,21 +6,7 @@
 
 
 
-## Contributions Graph
-	
-<p align="center">
-  <img src="https://github.com/nxz7/nxz7/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
 
-
-<br/>
-<p align="left">
-  <a href="https://github.com/nxz7">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nxz7&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxz7&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
 
 ## Repositories
 
@@ -106,13 +92,24 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 Most used languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxz7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxz7&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxz7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
+## Contributions Graph
+	
+<p align="center">
+  <img src="https://github.com/nxz7/nxz7/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
+
+
+<br/>
+<p align="left">
+  <a href="https://github.com/nxz7">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nxz7&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxz7&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
