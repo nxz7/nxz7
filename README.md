@@ -42,16 +42,11 @@
 # 📊 Most used languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxz7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img width="69.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxz7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ## Contributions Graph
 	
-<p align="center">
-  <img width="59.5%"  src="https://github.com/nxz7/nxz7/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
-
-
 <br/>
 <p align="Center">
   <a href="https://github.com/nxz7">
