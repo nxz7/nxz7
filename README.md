@@ -8,10 +8,19 @@
 
 ## Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/nxz7/nxz7/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
+
+<br/>
+<p align="left">
+  <a href="https://github.com/nxz7">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nxz7&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxz7&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
