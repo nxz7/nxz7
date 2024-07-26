@@ -37,12 +37,6 @@
     <a href="https://github.com/nxz7/OLC1_Proyecto1_202200007">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=OLC1_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/nxz7/IPC2_Proyecto3_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto3_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/LFP_S2_2023_Proyecto2_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
     <a href="https://github.com/nxz7/IPC2_Proyecto2_202200007">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
     </a>
