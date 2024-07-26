@@ -22,8 +22,7 @@
 </p>
 <br>
 
-
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+## Repositories
 <div>
   <p align="center">
     <a href="https://github.com/nxz7/P2_MIA_202200007">
