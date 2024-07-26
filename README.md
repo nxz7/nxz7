@@ -7,59 +7,6 @@
 
 
 
-
-## Repositories
-
-<div>
-  <p align="center">
-    <a href="https://github.com/nxz7/P2_MIA_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=P2_MIA_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/EDD_PROYECTO-_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=EDD_PROYECTO-_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/ACYE1_Assembly_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=ACYE1_Assembly_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/OLC1_Proyecto1_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=OLC1_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/IPC2_Proyecto2_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/LFP_S2_2023_Proyecto1_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/IPC2_Proyecto1_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/LFP_S2_2023_Practica_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Practica_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/IPC1_S12023_Proyecto2_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC1_S12023_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/IPC1-PRACTICA2-202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC1-PRACTICA2-202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/IPC1_S12023_Proyecto1_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC1_S12023_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/-IPC1-S12023_Practica1_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=-IPC1-S12023_Practica1_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-	      <a href="https://github.com/nxz7/IPC2_Proyecto3_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto3_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/nxz7/LFP_S2_2023_Proyecto2_202200007">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-	  
-  </p>
-</div>
-</br></br>
-
-
 # 💻 Languages and tools:
 
 <p align="center">
@@ -112,3 +59,55 @@
   </a>
 </p>
 <br>
+
+
+## Repositories
+
+<div>
+  <p align="center">
+    <a href="https://github.com/nxz7/P2_MIA_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=P2_MIA_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/EDD_PROYECTO-_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=EDD_PROYECTO-_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/ACYE1_Assembly_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=ACYE1_Assembly_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/OLC1_Proyecto1_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=OLC1_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/IPC2_Proyecto2_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/LFP_S2_2023_Proyecto1_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/IPC2_Proyecto1_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/LFP_S2_2023_Practica_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Practica_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/IPC1_S12023_Proyecto2_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC1_S12023_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/IPC1-PRACTICA2-202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC1-PRACTICA2-202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/IPC1_S12023_Proyecto1_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC1_S12023_Proyecto1_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/-IPC1-S12023_Practica1_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=-IPC1-S12023_Practica1_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	      <a href="https://github.com/nxz7/IPC2_Proyecto3_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=IPC2_Proyecto3_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/nxz7/LFP_S2_2023_Proyecto2_202200007">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nxz7&repo=LFP_S2_2023_Proyecto2_202200007&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	  
+  </p>
+</div>
+</br></br>
