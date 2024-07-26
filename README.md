@@ -48,12 +48,12 @@
 ## Contributions Graph
 	
 <p align="center">
-  <img src="https://github.com/nxz7/nxz7/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+  <img width="59.5%"  src="https://github.com/nxz7/nxz7/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
 
 <br/>
-<p align="left">
+<p align="Center">
   <a href="https://github.com/nxz7">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nxz7&theme=gruvbox&hide_border=true" />
   </a>
