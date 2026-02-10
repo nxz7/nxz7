@@ -11,16 +11,16 @@
 
 ---
 
-### 👩‍💻 About me
+###  About me
 
-- 🎓 Majoring in **Software Engineering / Computer Science**
-- ☁️ Interested in **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes
-- 🧠 Backend dev with **NestJS, Node.js, Postgres, Docker**
-- 🐧 Comfortable in **Linux**
+-  Majoring in **Software Engineering / Computer Science**
+-  Interested in **Cloud & DevOps**: AWS, GCP, Azure, Kubernetes
+-  Backend dev with **NestJS, Node.js, Postgres, Docker**
+-  Comfortable in **Linux**
 
 ---
 
-## 💻 Languages & Tools
+##  Languages & Tools
 
 <div align="center">
 
